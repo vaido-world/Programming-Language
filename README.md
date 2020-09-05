@@ -18,7 +18,8 @@ Component
 */
 
 
-# 
+Class
+Type
 
 Include standardLibrary;
 
