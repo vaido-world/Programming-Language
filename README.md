@@ -38,7 +38,7 @@ void main(firstArgument, secondArgument){
      customFloatNumber = 1567.50;
     
     
-    if (customNumber = customFloat){
+    if (customNumber = customFloatNumber ){
         console.write("Number is equal");
     } else {
         console.write("Number is not equal");
