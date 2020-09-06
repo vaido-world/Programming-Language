@@ -47,12 +47,14 @@ void main(firstArgument, secondArgument){
     while not (file.lastLine){
         console.print(file.line.output);
     }
+    
+    for (customDigit, repeatUntilLargerThan(5), increment(customDigit))
 
 }
 </code>
 </pre>
 
-## Digits versus Numerals
+## Digits versus Numerals and Number
 https://www.mathsisfun.com/numbers/numbers-numerals-digits.html
 
 ## Notation for Defining a Programming language
