@@ -33,7 +33,7 @@ void main(firstArgument, secondArgument){
     array customArray = [0, 1, 2, 3, 4];
     digit customDigit = 5;
     numeral customNumber = 4687;
-    numeral float customFloat 1567.50;
+    numeral float customFloat = 1567.50;
 
 }
 </code>
