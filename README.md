@@ -43,6 +43,10 @@ void main(firstArgument, secondArgument){
     } else {
         console.write("Number is not equal");
     }
+    
+    while not (file.lastLine){
+        console.print(file.line.output);
+    }
 
 }
 </code>
