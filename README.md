@@ -48,7 +48,9 @@ void main(firstArgument, secondArgument){
         console.print(file.line.output);
     }
     
-    for (customDigit, repeatUntilLargerThan(5), increment(customDigit))
+    for (digit customDigit, repeatUntilLargerThan(5), increment(customDigit)){
+        console.print(customDigit + "Random Text that repeats");
+    }
 
 }
 </code>
