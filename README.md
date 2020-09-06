@@ -27,7 +27,7 @@ void main(firstArgument, secondArgument){
     system.std.output("Hello World.");
     system.std.input ( keyboardKey  );
     console.output("A text in console.");
-    console.write("A text in console.");
+    console.write("A text in console.").append("More text to the string in Console");
     string customName = "a programming language";
 
 }
