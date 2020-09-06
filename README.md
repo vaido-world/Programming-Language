@@ -34,6 +34,12 @@ void main(firstArgument, secondArgument){
     digit customDigit = 5;
     numeral customNumber = 4687;
     numeral float customFloat = 1567.50;
+    
+    if (customNumber = customFloat){
+        console.write("Number is equal");
+    } else {
+        console.write("Number is not equal");
+    }
 
 }
 </code>
