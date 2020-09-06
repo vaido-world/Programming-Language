@@ -26,6 +26,7 @@ Include standardLibrary : system.std - output, input;
 void main(firstArgument, secondArgument){
     system.std.output("Hello World.");
     system.std.input ( keyboardKey  );
+    console.output("A text in console.");
     string customName = "a programming language";
 
 }
