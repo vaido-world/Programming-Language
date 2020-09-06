@@ -31,10 +31,15 @@ void main(firstArgument, secondArgument){
     string customName = "a programming language";
     letter customLetter = 'B';
     array customArray = [0, 1, 2, 3, 4];
+    digit customDigit = 5;
+    numeral customNumber = 4687;
 
 }
 </code>
 </pre>
+
+## Digits versus Numerals
+https://www.mathsisfun.com/numbers/numbers-numerals-digits.html
 
 ## Notation for Defining a Programming language
 https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form
