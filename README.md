@@ -21,12 +21,12 @@ Component
 Class
 Type
 
-Include standardLibrary;
+Include standardLibrary : system.std - output, input;
 
 void main(firstArgument, secondArgument){
     system.std.output("Hello World.");
     system.std.input ( keyboardKey  );
-
+    string 
 
 }
 </code>
