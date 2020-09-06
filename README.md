@@ -29,6 +29,7 @@ void main(firstArgument, secondArgument){
     console.output("A text in console.");
     console.write("A text in console.").append("More text to the string in Console");
     string customName = "a programming language";
+    letter customLetter = 'B';
 
 }
 </code>
