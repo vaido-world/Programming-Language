@@ -30,7 +30,7 @@ void main(firstArgument, secondArgument){
     console.write("A text in console.").append("More text to the string in Console");
     string customName = "a programming language";
     letter customLetter = 'B';
-    array customArray = [0, 1, 2, 3, 4]
+    array customArray = [0, 1, 2, 3, 4];
 
 }
 </code>
